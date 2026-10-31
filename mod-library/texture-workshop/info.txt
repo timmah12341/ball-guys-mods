@@ -1,1 +1,4 @@
-
+mod-name: "Texture Workshop!"
+version: "v0.0.8"
+date-updated: "31-10-2026"
+description: "Load textures for the ball! This is really buggy, not recommended!"
