@@ -1,0 +1,4 @@
+mod-name: "Tim's Mod Loader!"
+version: "v0.0.0"
+date-updated: "31-10-2026"
+description: "This is the mod loader that you are currently using! (surprise) You can install mods and uninstall mods easily via this mod, this is the start of something big 👀"
